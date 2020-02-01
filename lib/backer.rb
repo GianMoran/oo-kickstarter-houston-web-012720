@@ -1,3 +1,4 @@
+require 'pry'
 class Player
     attr_accessor :team
     attr_reader :name, :position
